@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Bandori</string>
+    <string name="tittle_APP">Bandori Music Store App</string>
+    <string name="login_to_app">Login to App</string>
+    <string name="login_email">Email :</string>
+    <string name="login_password">Password :</string>
+    <string name="login_button">Login</string>
+    <string name="register_to_app">Register to App</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">confirm password :</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="gender_register">Gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="agree_of_terms_and_condition">Agree of Terms and Condition</string>
+    <string name="dob">DOB : </string>
+    <string name="enter_the_code_from_your_sms_here">enter the code from your SMS here</string>
+    <string name="verify">Verify</string>
+    <string name="send_code">Send Code</string>
+    <string name="tap_here_to_choose_date">tap here to choose date</string>
+    <string name="music_list">Music List</string>
+    <string name="mymusic">My Music</string>
+    <string name="myprofile">My Profile</string>
+    <string name="about_store">About Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price">Price : </string>
+    <string name="band_name">Band Name :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="buy">Buy ?</string>
+    <string name="buya">Buy</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="update">Update</string>
+    <string name="old_password">Old Password :</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm new password :</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="our_location">Our Location</string>
+    <string name="log_out">Log Out</string>
+</resources>
